@@ -1,0 +1,96 @@
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\bin\Debug\SumoProject.exe.config
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\bin\Debug\SumoProject.exe
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\bin\Debug\SumoProject.pdb
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.AssemblyReference.cache
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.SuggestedBindingRedirects.cache
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\Assets\Styles\GlobalStyle.baml
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\View\Windows\MainWindow.g.cs
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\App.g.cs
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\SumoProject_MarkupCompile.cache
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\SumoProject_MarkupCompile.lref
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\App.baml
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\View\Windows\MainWindow.baml
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\SumoProject.g.resources
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\SumoProject.Properties.Resources.resources
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.GenerateResource.cache
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.CoreCompileInputs.cache
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\SumoProject.exe
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\SumoProject.pdb
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\View\Pages\AboutProgramPage.g.cs
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\View\Pages\HistoryPage.g.cs
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\View\Pages\RulesPage.g.cs
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\View\Pages\AboutProgramPage.baml
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\View\Pages\HistoryPage.baml
+E:\GG PROGRAMIST\All_project_c#\SumoProject\SumoProject\obj\Debug\View\Pages\RulesPage.baml
+D:\my\SumoProject\SumoProject\bin\Debug\SumoProject.exe.config
+D:\my\SumoProject\SumoProject\bin\Debug\SumoProject.exe
+D:\my\SumoProject\SumoProject\bin\Debug\SumoProject.pdb
+D:\my\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.AssemblyReference.cache
+D:\my\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.SuggestedBindingRedirects.cache
+D:\my\SumoProject\SumoProject\obj\Debug\Assets\Styles\GlobalStyle.baml
+D:\my\SumoProject\SumoProject\obj\Debug\View\Pages\AboutProgramPage.g.cs
+D:\my\SumoProject\SumoProject\obj\Debug\View\Pages\HistoryPage.g.cs
+D:\my\SumoProject\SumoProject\obj\Debug\View\Pages\RulesPage.g.cs
+D:\my\SumoProject\SumoProject\obj\Debug\View\Windows\MainWindow.g.cs
+D:\my\SumoProject\SumoProject\obj\Debug\App.g.cs
+D:\my\SumoProject\SumoProject\obj\Debug\SumoProject_MarkupCompile.cache
+D:\my\SumoProject\SumoProject\obj\Debug\SumoProject_MarkupCompile.lref
+D:\my\SumoProject\SumoProject\obj\Debug\App.baml
+D:\my\SumoProject\SumoProject\obj\Debug\View\Pages\AboutProgramPage.baml
+D:\my\SumoProject\SumoProject\obj\Debug\View\Pages\HistoryPage.baml
+D:\my\SumoProject\SumoProject\obj\Debug\View\Pages\RulesPage.baml
+D:\my\SumoProject\SumoProject\obj\Debug\View\Windows\MainWindow.baml
+D:\my\SumoProject\SumoProject\obj\Debug\SumoProject.g.resources
+D:\my\SumoProject\SumoProject\obj\Debug\SumoProject.Properties.Resources.resources
+D:\my\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.GenerateResource.cache
+D:\my\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.CoreCompileInputs.cache
+D:\my\SumoProject\SumoProject\obj\Debug\SumoProject.exe
+D:\my\SumoProject\SumoProject\obj\Debug\SumoProject.pdb
+E:\Download\SumoProject\SumoProject\bin\Debug\SumoProject.exe.config
+E:\Download\SumoProject\SumoProject\bin\Debug\SumoProject.exe
+E:\Download\SumoProject\SumoProject\bin\Debug\SumoProject.pdb
+E:\Download\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.AssemblyReference.cache
+E:\Download\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.SuggestedBindingRedirects.cache
+E:\Download\SumoProject\SumoProject\obj\Debug\Assets\Styles\GlobalStyle.baml
+E:\Download\SumoProject\SumoProject\obj\Debug\View\Pages\AboutProgramPage.g.cs
+E:\Download\SumoProject\SumoProject\obj\Debug\View\Pages\HistoryPage.g.cs
+E:\Download\SumoProject\SumoProject\obj\Debug\View\Pages\RulesPage.g.cs
+E:\Download\SumoProject\SumoProject\obj\Debug\View\Windows\MainWindow.g.cs
+E:\Download\SumoProject\SumoProject\obj\Debug\App.g.cs
+E:\Download\SumoProject\SumoProject\obj\Debug\SumoProject_MarkupCompile.cache
+E:\Download\SumoProject\SumoProject\obj\Debug\SumoProject_MarkupCompile.lref
+E:\Download\SumoProject\SumoProject\obj\Debug\App.baml
+E:\Download\SumoProject\SumoProject\obj\Debug\View\Pages\AboutProgramPage.baml
+E:\Download\SumoProject\SumoProject\obj\Debug\View\Pages\HistoryPage.baml
+E:\Download\SumoProject\SumoProject\obj\Debug\View\Pages\RulesPage.baml
+E:\Download\SumoProject\SumoProject\obj\Debug\View\Windows\MainWindow.baml
+E:\Download\SumoProject\SumoProject\obj\Debug\SumoProject.g.resources
+E:\Download\SumoProject\SumoProject\obj\Debug\SumoProject.Properties.Resources.resources
+E:\Download\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.GenerateResource.cache
+E:\Download\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.CoreCompileInputs.cache
+E:\Download\SumoProject\SumoProject\obj\Debug\SumoProject.exe
+E:\Download\SumoProject\SumoProject\obj\Debug\SumoProject.pdb
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\bin\Debug\SumoProject.exe.config
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\bin\Debug\SumoProject.exe
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\bin\Debug\SumoProject.pdb
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.AssemblyReference.cache
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\Assets\Styles\GlobalStyle.baml
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\View\Pages\AboutProgramPage.g.cs
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\View\Pages\HistoryPage.g.cs
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\View\Pages\RulesPage.g.cs
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\App.g.cs
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\SumoProject_MarkupCompile.cache
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\SumoProject_MarkupCompile.lref
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\App.baml
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\View\Pages\AboutProgramPage.baml
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\View\Pages\HistoryPage.baml
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\View\Pages\RulesPage.baml
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\SumoProject.g.resources
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\SumoProject.Properties.Resources.resources
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.GenerateResource.cache
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\SumoProject.csproj.CoreCompileInputs.cache
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\SumoProject.exe
+C:\Users\повелитель\Desktop\ПП03 - Пшидаток\SumoProject\SumoProject\obj\Debug\SumoProject.pdb
